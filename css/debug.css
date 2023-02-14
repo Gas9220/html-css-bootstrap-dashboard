@@ -1,0 +1,15 @@
+/*
+Debug
+*/
+
+body.debug {
+    background-color: rebeccapurple; /* Test CSS */
+}
+
+.debug main div.main-right-content {
+    background-color: beige;
+}
+
+.debug main aside {
+    background-color:lightblue;
+}

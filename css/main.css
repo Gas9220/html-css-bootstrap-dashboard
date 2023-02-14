@@ -1,0 +1,21 @@
+/*
+Main
+*/
+
+main {
+    height: calc(100vh - 4.375rem);
+}
+
+main div.main-right-content {
+    width: 100%;
+}
+
+@media screen and (min-width: 992px) {
+    main aside {
+        width: 9.375rem;
+    }
+
+    main div.main-right-content {
+        width: calc(100% - 9.375rem);
+    }
+}
