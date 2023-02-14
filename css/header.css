@@ -5,3 +5,8 @@ Header
 header nav {
     height: 4.375rem;
 }
+
+header nav .container-fluid a img:last-child {
+    width: 3.5rem;
+    height: 3.5rem;
+}
