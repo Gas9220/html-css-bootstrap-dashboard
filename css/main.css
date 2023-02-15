@@ -2,6 +2,10 @@
 Main
 */
 
+aside {
+    background-color: #051E34;
+}
+
 aside ul li i {
     width: 1em;
     height: 1rem;
@@ -14,6 +18,10 @@ main {
 
 main div.main-right-content {
     width: 100%;
+}
+
+.top-row {
+    background-color: #1B72E8;
 }
 
 @media screen and (min-width: 992px) {
