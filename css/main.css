@@ -24,6 +24,11 @@ main .main-right-content {
     background-color: #1B72E8;
 }
 
+.row img.avatar {
+    width: 1.5rem;
+    vertical-align: bottom;
+}
+
 @media screen and (min-width: 992px) {
     main aside {
         width: 9.375rem;
