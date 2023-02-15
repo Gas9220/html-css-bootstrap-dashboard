@@ -12,6 +12,10 @@ aside ul li i {
     font-size: 1rem;
 }
 
+aside ul li:hover {
+    background-color: rgba(255, 255, 255, 0.506);
+}
+
 main {
     height: calc(100vh - 4.375rem);
 }
